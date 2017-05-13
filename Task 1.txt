@@ -1,0 +1,17 @@
+Task List 1
+
+Thomas - Read the rules for IGVC, ORBSLAM2, Intro to ROS/Linux
+Jacques - Motor controller/Arduino
+John - Physical contruction (frame pieces), Arduino 
+Steffen (John supervising) - PID
+William - ORBSLAM2
+Vinh - ORBSLAM2
+Alec - LIDAR obstacle detection, Intro to Github
+Mathew - ROS/Github/Fast.ai tutorials
+Jeremy - ROS/Github/Fast.ai tutorials
+Matteo - ROS/Github tutorials
+Meghan - ROS/Github tutorials
+Jesse - ROS/Github tutorials
+Stuart - ROS/Github tutorials
+Kyle - ROS node to broadcast GPS position
+Vincent - LIDAR object-detection
