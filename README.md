@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/ksu-ground-vehicle/tasks.png?label=ready&title=Ready)](https://waffle.io/ksu-ground-vehicle/tasks?utm_source=badge)
 # Read This First
 
 Check Slack and Waffle on a daily basis!
