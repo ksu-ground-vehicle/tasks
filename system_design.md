@@ -18,10 +18,10 @@
 4. line_detector
     1. Inputs: Camera data
     2. Outputs: location of grid lines
-4. path_planner
+5. path_planner
     1. Inputs: takes in orbslam data, lines, gps, lidar
     2. Outputs: a path through obstacles
-5. pid_controller
+6. pid_controller
     1. Inputs: path from path_planner
     2. Outputs: pwm values to arduino
     3. Sends ints for pids to the arduino
