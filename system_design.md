@@ -3,7 +3,7 @@
 ### Nodes
 1. orb_slam2
     1. Inputs: camera data
-    2. Outputs: Gives 3d map and current position
+    2. Outputs: Gives current position
 2. gps_arduino
     1. Inputs: gps sensor
     2. Outputs: broadcasts GPS location samples in ros
@@ -25,4 +25,4 @@
     1. Inputs: path from path_planner
     2. Outputs: pwm values to arduino
     3. Sends ints for pids to the arduino
-        1. map, path -> pid_controller -> arduino -> motor controller
+        1. current_location, path -> pid_controller -> arduino -> motor controller
