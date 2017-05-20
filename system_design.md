@@ -15,6 +15,9 @@
         1. Gives laser scan data
     3. Future: Nearby obstacle tracking?
         1. Perhaps use with mapping program
+4. line_detector
+    1. Inputs: Camera data
+    2. Outputs: location of grid lines
 4. path_planner
     1. Inputs: takes in orbslam data, lines, gps, lidar
     2. Outputs: a path through obstacles
@@ -23,4 +26,3 @@
     2. Outputs: pwm values to arduino
     3. Sends ints for pids to the arduino
         1. map, path -> pid_controller -> arduino -> motor controller
-    
